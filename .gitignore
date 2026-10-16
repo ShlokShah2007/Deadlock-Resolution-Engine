@@ -8,13 +8,6 @@ __pycache__/
 venv/
 ENV/
 
-# Presentations and Office docs (explicitly excluded)
-*.ppt
-*.pptx
-*.pps
-*.ppsx
-*.key
-*.pdf
 
 # Compiled Executables & Binaries
 *.exe
