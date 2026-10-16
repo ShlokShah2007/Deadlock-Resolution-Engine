@@ -163,7 +163,7 @@ Deadlock-Resolution-Engine/
 ├── test_client.py      # Automated Python simulation client
 ├── test_client.cpp     # Cross-language C++ HTTP test client
 ├── requirements.txt    # Pinned production dependencies
-├── 25BCE313-25BCE320 DATABASE CONCURRENCY & DEADLOCK ENGINE.pptx # Project presentation slide deck
+├── 25BCE313-25BCE320 MATHS ASSIGNMENT.pptx # Project presentation slide deck
 └── README.md           # Mathematical documentation and architecture specification
 ```
 
@@ -172,7 +172,7 @@ Deadlock-Resolution-Engine/
 ## 📊 Presentation Slide Deck
 
 The official coursework presentation slides are included directly in this repository:
-* **[`25BCE313-25BCE320 DATABASE CONCURRENCY & DEADLOCK ENGINE.pptx`](./25BCE313-25BCE320%20DATABASE%20CONCURRENCY%20%26%20DEADLOCK%20ENGINE.pptx)**: Covers the full problem statement, Coffman conditions, Wait-For Graph theoretical model, 3-state DFS back-edge detection, FastAPI microservice design, and benchmark results.
+* **[`25BCE313-25BCE320 MATHS ASSIGNMENT.pptx`](./25BCE313-25BCE320%20MATHS%20ASSIGNMENT.pptx)**: Covers the full problem statement, Coffman conditions, Wait-For Graph theoretical model, 3-state DFS back-edge detection, FastAPI microservice design, and benchmark results.
 
 
 ---
