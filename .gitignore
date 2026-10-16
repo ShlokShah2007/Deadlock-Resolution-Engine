@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+ENV/
+
+# Presentations and Office docs (explicitly excluded)
+*.ppt
+*.pptx
+*.pps
+*.ppsx
+*.key
+*.pdf
+
+# Compiled Executables & Binaries
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# Competitive Programming & Editor configs
+.cph/
+.vscode/
+.vs/
+.idea/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
